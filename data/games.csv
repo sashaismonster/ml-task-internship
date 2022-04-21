@@ -1,0 +1,251 @@
+id_game,title,genre,price
+1,Terraria(2011),Open World Survival Craft,$9.99
+2,Portal 2(2011),Platformer,$9.99
+3,Stardew Valley(2016),Farming Sim,$14.99
+4,Hades(2020),Action Roguelike,$24.99
+5,Left 4 Dead 2(2009),Zombies,$9.99
+6,People Playground(2019),Sandbox,$9.99
+7,Euro Truck Simulator 2(2012),Transportation,$19.99
+8,Vampire Survivors(2021),Action Roguelike,$2.69
+9,RimWorld(2018),Colony Sim,$34.99
+10,Portal(2007),Puzzle,$9.99
+11,The Binding of Isaac: Rebirth(2014),Action Roguelike,$14.99
+12,Garry's Mod(2006),Sandbox,$9.99
+13,Phasmophobia(2020),Horror,$13.99
+14,Half-Life: Alyx(2020),FPS,$59.99
+15,Counter-Strike(2000),Action,$9.99
+16,Factorio(2020),Automation,$30.00
+17,Helltaker(2020),Cute,Free
+18,Mount & Blade: Warband(2010),Medieval,$19.99
+19,Bloons TD 6(2018),Tower Defense,$9.99
+20,Slay the Spire(2019),Roguelike Deckbuilder,$24.99
+21,Hollow Knight(2017),Metroidvania,$14.99
+22,Totally Accurate Battle Simulator(2021),Sandbox,$8.99
+23,Half-Life 2(2004),FPS,$9.99
+24,Slime Rancher(2017),Cute,$19.99
+25,ULTRAKILL(2020),FPS,$19.99
+26,The Witcher® 3: Wild Hunt(2015),Open World,$39.99
+27,Katana ZERO(2019),Pixel Graphics,$14.99
+28,The Henry Stickmin Collection(2020),Funny,$14.99
+29,OMORI(2020),Psychological Horror,$19.99
+30,Resident Evil 2(2019),Zombies,$39.99
+31,Dyson Sphere Program(2021),Space,$19.99
+32,Don't Starve Together(2016),Exploration,$14.99
+33,A Hat in Time(2017),Cute,$29.99
+34,Doki Doki Literature Club!(2017),Psychological Horror,Free
+35,Deep Rock Galactic(2020),Co-op,$29.99
+36,Undertale(2015),Great Soundtrack,$9.99
+37,Dead Cells(2018),Roguelite,$24.99
+38,Satisfactory(2020),Base Building,$29.99
+39,Celeste(2018),Precision Platformer,$19.99
+40,Risk of Rain 2(2020),Third-Person Shooter,$24.99
+41,Dishonored(2012),Stealth,$9.99
+42,Hotline Miami(2012),Great Soundtrack,$9.99
+43,Subnautica(2018),Open World Survival Craft,$29.99
+44,South Park™: The Stick of Truth™(2014),RPG,$29.99
+45,BeamNG(2015),Simulation,$24.99
+46,Tomb Raider(2013),Adventure,$14.99
+47,Fallout: New Vegas(2010),Open World,$9.99
+48,BattleBlock Theater®(2014),Comedy,$14.99
+49,OneShot(2016),Story Rich,$9.99
+50,Plants vs(2009),Tower Defense,$4.99
+51,Don't Starve(None),Survival,$9.99
+52,Inscryption(2021),Card Battler,$19.99
+53,Mirror(2018),Sexual Content,$0.79
+54,Sid Meier's Civilization® V(2010),Turn-Based Strategy,$29.99
+55,Valheim(2021),Open World Survival Craft,$19.99
+56,Firework(2021),Horror,$9.99
+57,A Short Hike(2019),Adventure,$7.99
+58,Persona 4 Golden(2020),JRPG,$19.99
+59,Life is Strange - Episode 1(2015),Story Rich,Free
+60,Cookie Clicker(2021),Clicker,$4.99
+61,Counter-Strike: Source(2004),Shooter,$9.99
+62,The Walking Dead(2012),Zombies,$14.99
+63,Rhythm Doctor(2021),Music,$15.99
+64,Senren＊Banka(2020),Casual,$34.99
+65,American Truck Simulator(2016),Automobile Sim,$19.99
+66,VA-11 Hall-A: Cyberpunk Bartender Action(2016),Cyberpunk,$14.99
+67,Cuphead(2017),Difficult,$19.99
+68,The Wolf Among Us(2013),Adventure,$14.99
+69,Divinity: Original Sin 2 - Definitive Edition(2017),Tactical RPG,$44.99
+70,Broforce(2015),America,$14.99
+71,Ori and the Will of the Wisps(2020),Beautiful,$9.89
+72,"Papers, Please(2013)",Political,$9.99
+73,Oxygen Not Included(2019),Colony Sim,$24.99
+74,Ravenfield(2017),FPS,$14.99
+75,Half-Life(1998),FPS,$9.99
+76,God of War(2022),Action,$49.99
+77,The Forest(2018),Open World Survival Craft,$19.99
+78,Castle Crashers®(2012),Co-op,$14.99
+79,Baba Is You(2019),Puzzle,$14.99
+80,There Is No Game: Wrong Dimension(2020),Adventure,$12.99
+81,Outlast(2013),Horror,$19.99
+82,Dying Light(2015),Zombies,$29.99
+83,The Room(2014),Puzzle,$4.99
+84,One Finger Death Punch(2014),Action,$4.99
+85,STAR WARS™ Empire at War - Gold Pack(2006),Strategy,$19.99
+86,GRIS(2018),Beautiful,$16.99
+87,The Room 4: Old Sins(2021),Puzzle,$8.99
+88,PowerWash Simulator(2021),Simulation,$19.99
+89,To the Moon(2011),Story Rich,$9.99
+90,Iron Snout(2016),2D Fighter,Free
+91,It Takes Two(2021),Co-op,$39.99
+92,DUSK(2018),FPS,$19.99
+93,Tiny Bunny(2021),Visual Novel,$12.99
+94,Grimm's Hollow(2019),Pixel Graphics,Free
+95,The Test(2020),Multiple Endings,$1.99
+96,The Elder Scrolls V: Skyrim(2011),Open World,$19.99
+97,Enter the Gungeon(2016),Bullet Hell,$14.99
+98,The Room Two(2016),Puzzle,$4.99
+99,Finding Paradise(2017),Story Rich,$9.99
+100,Just Shapes & Beats(2018),Rhythm,$19.99
+101,POSTAL 2(2003),Open World,$9.99
+102,DOOM(2016),FPS,$19.99
+103,ATRI -My Dear Moments-(2020),Visual Novel,$20.99
+104,Our Life: Beginnings & Always(2020),LGBTQ+,Free
+105,Phoenix Wright: Ace Attorney Trilogy(2019),Detective,$29.99
+106,Half-Life 2: Episode Two(2007),FPS,$7.99
+107,Age of Empires II (2013)(2013),Strategy,$19.99
+108,Resident Evil Village(2021),Survival Horror,$59.99
+109,Beat Saber(2019),Rhythm,$29.99
+110,Sekiro™: Shadows Die Twice - GOTY Edition(2019),Souls-like,$59.99
+111,Saints Row: The Third(2011),Open World,$9.99
+112,FTL: Faster Than Light(2012),Roguelike,$9.99
+113,Batman: Arkham Asylum Game of the Year Edition(2010),Action,$19.99
+114,Touhou Mystia's Izakaya(2021),Casual,$5.09
+115,Dorfromantik(2021),City Builder,$13.99
+116,Touhou Luna Nights(2019),Metroidvania,$17.99
+117,Duck Game(2015),Funny,$12.99
+118,BioShock Infinite(2013),FPS,$29.99
+119,Keep Talking and Nobody Explodes(2015),Co-op,$14.99
+120,INSIDE(2016),Puzzle,$4.99
+121,The Expendabros(2014),Action,Free
+122,Black Mesa(2020),FPS,$19.99
+123,Kind Words (lo fi chill beats to write to)(2019),Emotional,$4.99
+124,Team Fortress 2(2007),Hero Shooter,Free
+125,Super Hexagon(2012),Difficult,$2.99
+126,Ori and the Blind Forest: Definitive Edition(2016),Atmospheric,$4.99
+127,Clone Drone in the Danger Zone(2021),Robots,$19.99
+128,Left 4 Dead(2008),Zombies,$9.99
+129,Eternal Senia(2015),Anime,Free
+130,Everlasting Summer(2014),Visual Novel,Free
+131,STEINS;GATE(2016),Visual Novel,$29.99
+132,Unheard(2019),Detective,$6.99
+133,CLANNAD(2004),Visual Novel,$44.99
+134,Townscaper(2021),Building,$5.99
+135,Word Game: Episode 0(2021),Minimalist,Free
+136,Batman: Arkham City - Game of the Year Edition(2012),Action,$19.99
+137,Gunpoint(2013),Stealth,$4.99
+138,Stronghold Crusader HD(2002),Real Time Tactics,$9.99
+139,Ultimate Chicken Horse(2016),Funny,$14.99
+140,Before Your Eyes(2021),Narrative,$9.99
+141,Human: Fall Flat(2016),Co-op,$19.99
+142,Shadow Tactics: Blades of the Shogun(2016),Stealth,$39.99
+143,Blade and Sorcery(2018),Action,$19.99
+144,Mark of the Ninja(None),Stealth,$19.99
+145,HuniePop(2015),Nudity,$9.99
+146,DARK SOULS™ III(2016),Souls-like,$59.99
+147,"Hot Dogs, Horseshoes & Hand Grenades(2016)",Simulation,$19.99
+148,Webbed(2021),2D Platformer,$9.99
+149,Danganronpa: Trigger Happy Havoc(2016),Anime,$19.99
+150,Tales of the Black Forest(2019),RPG,$1.19
+151,Muck(2021),Survival,Free
+152,Gorogoa(2017),Puzzle,$14.99
+153,Danganronpa 2: Goodbye Despair(2016),Anime,$19.99
+154,Zup! S(2018),Casual,$0.99
+155,Ultimate Custom Night(2018),Horror,Free
+156,The Binding of Isaac(2011),Action Roguelike,$4.99
+157,NEKOPARA Vol(2016),Anime,$9.99
+158,Return of the Obra Dinn(2018),Detective,$19.99
+159,Teardown(2020),Destruction,$19.99
+160,Epic Battle Fantasy 5(2018),Funny,$19.99
+161,Kerbal Space Program(2015),Space,$39.99
+162,Psychonauts 2(2021),Story Rich,$35.99
+163,Besiege(2020),Building,$14.99
+164,SOMA(2015),Philosophical,$29.99
+165,Touhou Tenkuushou ~ Hidden Star in Four Seasons(2017),Bullet Hell,$14.99
+166,Milk inside a bag of milk inside a bag of milk(2020),Visual Novel,$0.49
+167,LEGO® Star Wars™ - The Complete Saga(2009),LEGO,$19.99
+168,NEKOPARA Vol(2017),Hentai,$9.99
+169,The Walking Dead: Season Two(2013),Zombies,$14.99
+170,Mirror 2: Project X(2022),Anime,$1.99
+171,Post Void(2020),Psychedelic,$2.54
+172,Noita(2020),Physics,$19.99
+173,Virtual Cottage(2020),Relaxing,Free
+174,Fran Bow(2015),Psychological Horror,$14.99
+175,Doki Doki Literature Club Plus!(2021),Psychological Horror,$14.99
+176,Titanfall® 2(2016),FPS,$29.99
+177,My Friend Pedro(2019),Action,$19.99
+178,Rabi-Ribi(2016),Anime,$17.99
+179,Monster Train(2020),Card Battler,$24.99
+180,Bastion(2011),Great Soundtrack,$14.99
+181,Killing Floor(2009),FPS,$19.99
+182,The Elder Scrolls IV: Oblivion® Game of the Year Edition(2007),RPG,$14.99
+183,Far Away(2021),Singleplayer,$9.99
+184,NEKOPARA Vol(2020),Shooter,$9.99
+185,Yakuza: Like a Dragon(2020),RPG,$59.99
+186,SuchArt: Creative Space(2021),Simulation,Free
+187,Zup! F(2019),Casual,$0.99
+188,The Test: Final Revelation(2020),Simulation,$1.59
+189,Streets of Rogue(2019),Roguelite,$19.99
+190,Kenshi(2018),Open World,$29.99
+191,West of Loathing(2017),RPG,$10.99
+192,Borderlands 2(2012),Loot,$4.99
+193,Crypt of the NecroDancer(2015),Rhythm,$14.99
+194,Game Dev Tycoon(2013),Management,$9.99
+195,Supreme Commander: Forged Alliance(2011),Strategy,$12.99
+196,Gravitas(2019),Puzzle,Free
+197,Sally Face - Episode One(2016),Story Rich,$2.99
+198,Project Kat - Paper Lily Prologue(2021),Anime,Free
+199,Aim Lab(2018),FPS,Free
+200,Kingdom Rush - Tower Defense(2014),Tower Defense,$9.99
+201,Devil May Cry 5(2019),Action,$29.99
+202,Age of Empires II: Definitive Edition(2019),Strategy,$7.99
+203,Total War: MEDIEVAL II – Definitive Edition(2006),Strategy,$24.99
+204,Cube Escape Collection(2020),Mystery,$4.99
+205,Mafia II (Classic)(2011),Action,$29.99
+206,Gunfire Reborn(2021),FPS,$19.99
+207,Little Nightmares(2017),Horror,$19.99
+208,Nuclear Throne(2015),Action Roguelike,$11.99
+209,MADNESS: Project Nexus(2021),Arena Shooter,$24.99
+210,Cube Escape: Paradox(2018),Puzzle,Free
+211,Mini Metro(2015),Strategy,$9.99
+212,Shovel Knight: Treasure Trove(2014),Platformer,$39.99
+213,Aventura Copilului Albastru și Urât(2021),Adventure,$1.99
+214,Geometry Dash(2014),Difficult,$3.99
+215,shapez(2020),Automation,$9.99
+216,The Talos Principle(2014),Puzzle,$39.99
+217,Yakuza 0(2018),Action,$19.99
+218,Outer Wilds(2020),Exploration,$24.99
+219,Monster Girl Island: Prologue(2019),Sexual Content,Free
+220,Resident Evil 7 Biohazard(2017),Horror,$29.99
+221,Hook(2015),Casual,$0.99
+222,The Test: Hypothesis Rising(2020),Multiple Endings,$1.59
+223,Spiritfarer®: Farewell Edition(2020),Emotional,$29.99
+224,CarX Drift Racing Online(2017),Racing,$14.99
+225,NEKOPARA Vol(2014),Hentai,$9.99
+226,Cruelty Squad(2021),Capitalism,$19.99
+227,Riddle Joker(2020),Visual Novel,$34.99
+228,VTOL VR(2017),Flight,$29.99
+229,Desperados III(2020),Strategy,$49.99
+230,Nova Drift(2019),Action Roguelike,$14.99
+231,100 hidden frogs(2021),Hidden Object,Free
+232,Mindustry(2019),Base Building,$5.99
+233,Samsara Room(2020),Adventure,Free
+234,What Remains of Edith Finch(2017),Story Rich,$19.99
+235,Monster Prom 2: Monster Camp(2020),Dating Sim,$11.99
+236,Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™(2014),Atmospheric,$14.99
+237,Ultimate Doom(1995),FPS,$4.99
+238,Being a DIK - Season 1(2020),Sexual Content,$13.99
+239,Marco & The Galaxy Dragon(2020),Visual Novel,$19.99
+240,FIVE NIGHTS AT FREDDY'S: HELP WANTED(2019),Horror,$29.99
+241,Sayonara Wild Hearts(2019),Great Soundtrack,$12.99
+242,Universe Sandbox(2015),Sandbox,$29.99
+243,Trine 2: Complete Story(2013),Puzzle Platformer,$19.99
+244,Rise of the Tomb Raider™(2016),Adventure,$9.99
+245,The Supper(2020),Adventure,Free
+246,Little Nightmares II(2021),Horror,$29.99
+247,missed messages(2019),Visual Novel,Free
+248,Star Fetchers(2020),Action,Free
+249,第七号列车 - Train No(2021),Casual,Free
+250,Superflight(2017),Flight,$2.99
